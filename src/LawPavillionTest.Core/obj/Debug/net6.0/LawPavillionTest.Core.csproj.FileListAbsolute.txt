@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\repos\LawPavillionTest\src\LawPavillionTest.Core\bin\Debug\net6.0\LawPavillionTest.Core.deps.json
+C:\Users\HP\Desktop\repos\LawPavillionTest\src\LawPavillionTest.Core\bin\Debug\net6.0\LawPavillionTest.Core.runtimeconfig.json
+C:\Users\HP\Desktop\repos\LawPavillionTest\src\LawPavillionTest.Core\bin\Debug\net6.0\LawPavillionTest.Core.dll
+C:\Users\HP\Desktop\repos\LawPavillionTest\src\LawPavillionTest.Core\bin\Debug\net6.0\LawPavillionTest.Core.pdb
+C:\Users\HP\Desktop\repos\LawPavillionTest\src\LawPavillionTest.Core\obj\Debug\net6.0\LawPavillionTest.Core.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\repos\LawPavillionTest\src\LawPavillionTest.Core\obj\Debug\net6.0\LawPavillionTest.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\repos\LawPavillionTest\src\LawPavillionTest.Core\obj\Debug\net6.0\LawPavillionTest.Core.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\repos\LawPavillionTest\src\LawPavillionTest.Core\obj\Debug\net6.0\LawPavillionTest.Core.AssemblyInfo.cs
+C:\Users\HP\Desktop\repos\LawPavillionTest\src\LawPavillionTest.Core\obj\Debug\net6.0\LawPavillionTest.Core.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\repos\LawPavillionTest\src\LawPavillionTest.Core\obj\Debug\net6.0\LawPavillionTest.Core.dll
+C:\Users\HP\Desktop\repos\LawPavillionTest\src\LawPavillionTest.Core\obj\Debug\net6.0\refint\LawPavillionTest.Core.dll
+C:\Users\HP\Desktop\repos\LawPavillionTest\src\LawPavillionTest.Core\obj\Debug\net6.0\LawPavillionTest.Core.pdb
+C:\Users\HP\Desktop\repos\LawPavillionTest\src\LawPavillionTest.Core\obj\Debug\net6.0\LawPavillionTest.Core.genruntimeconfig.cache
+C:\Users\HP\Desktop\repos\LawPavillionTest\src\LawPavillionTest.Core\obj\Debug\net6.0\ref\LawPavillionTest.Core.dll

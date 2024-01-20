@@ -1,0 +1,12 @@
+C:\Users\HP\Desktop\repos\LawPavillionTest\src\LawPavillionTest.Domain\bin\Debug\net6.0\LawPavillionTest.Domain.deps.json
+C:\Users\HP\Desktop\repos\LawPavillionTest\src\LawPavillionTest.Domain\bin\Debug\net6.0\LawPavillionTest.Domain.dll
+C:\Users\HP\Desktop\repos\LawPavillionTest\src\LawPavillionTest.Domain\bin\Debug\net6.0\LawPavillionTest.Domain.pdb
+C:\Users\HP\Desktop\repos\LawPavillionTest\src\LawPavillionTest.Domain\obj\Debug\net6.0\LawPavillionTest.Domain.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\repos\LawPavillionTest\src\LawPavillionTest.Domain\obj\Debug\net6.0\LawPavillionTest.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\repos\LawPavillionTest\src\LawPavillionTest.Domain\obj\Debug\net6.0\LawPavillionTest.Domain.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\repos\LawPavillionTest\src\LawPavillionTest.Domain\obj\Debug\net6.0\LawPavillionTest.Domain.AssemblyInfo.cs
+C:\Users\HP\Desktop\repos\LawPavillionTest\src\LawPavillionTest.Domain\obj\Debug\net6.0\LawPavillionTest.Domain.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\repos\LawPavillionTest\src\LawPavillionTest.Domain\obj\Debug\net6.0\LawPavillionTest.Domain.dll
+C:\Users\HP\Desktop\repos\LawPavillionTest\src\LawPavillionTest.Domain\obj\Debug\net6.0\refint\LawPavillionTest.Domain.dll
+C:\Users\HP\Desktop\repos\LawPavillionTest\src\LawPavillionTest.Domain\obj\Debug\net6.0\LawPavillionTest.Domain.pdb
+C:\Users\HP\Desktop\repos\LawPavillionTest\src\LawPavillionTest.Domain\obj\Debug\net6.0\ref\LawPavillionTest.Domain.dll

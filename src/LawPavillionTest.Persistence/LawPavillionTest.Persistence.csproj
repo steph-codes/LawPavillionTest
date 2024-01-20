@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\LawPavillionTest.Core\LawPavillionTest.Core.csproj" />
+    <ProjectReference Include="..\LawPavillionTest.Domain\LawPavillionTest.Domain.csproj" />
+  </ItemGroup>
+
+</Project>
